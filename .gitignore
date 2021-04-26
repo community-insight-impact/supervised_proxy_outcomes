@@ -131,3 +131,5 @@ dmypy.json
 
 **/.DS_Store
 *.model
+*.merged_data.csv
+*/external_data
