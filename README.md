@@ -1,3 +1,3 @@
 # Supervised Learning for Proxy Outcomes
 
-This project aims to further analyze the data collected to construct the core metrics and validate the construction methodology. 
+To inform the next iteration of CVI metrics, we implemented supervised learning models to predict proxy outcomes. We sought to assess our current feature weights, quantify the predictive power of the included variables, and discover any in-formation gaps in the initial metric construction. Please read the reports for background, results, and discussion.
